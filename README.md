@@ -8,7 +8,7 @@ Giovani Castilho
 Gabriel Paggio
 
 Otavio Villela
-============
+
 Disclaimers:
 
 Este buscador foi implementado a partir da documentação, requisitos e diagramas do projeto (consultar Wiki para ver os mesmos).
